@@ -16,6 +16,7 @@
         "@types/react": "^18.2.34",
         "@types/react-dom": "^18.2.14",
         "@types/react-router-dom": "^5.3.3",
+        "cors": "^2.8.5",
         "dotenv": "^16.4.5",
         "express": "^4.19.2",
         "framer-motion": "^10.16.4",
@@ -56,6 +57,7 @@
         "@testing-library/jest-dom": "^6.1.4",
         "@testing-library/react": "^14.0.0",
         "@testing-library/user-event": "^14.5.1",
+        "@types/cors": "^2.8.17",
         "@types/jest": "^29.5.7",
         "gh-pages": "^6.0.0"
     },
