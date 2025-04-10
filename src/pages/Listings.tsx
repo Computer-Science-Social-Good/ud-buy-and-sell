@@ -134,9 +134,9 @@ export const ShowListings = (
           </Center>
           <Center mb="4">
             Sort by
-            <Select width="180px" ml="2" onChange={sortCards}>
-              <option value="recent">🕛 Most Recent</option>
-              <option value="price">💵 Cheapest</option>
+            <Select width="220px" ml="2" onChange={sortCards}>
+              <option value="recent">🕛 Date (Newest First)</option>
+              <option value="price">💵 Price (Low to High)</option>
             </Select>
           </Center>
         </Stack>
