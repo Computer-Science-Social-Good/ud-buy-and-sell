@@ -72,7 +72,7 @@ export const Navbar = () => {
         <Link to="/listings" onClick={() => handleNavigate("/listings")}>
           <Text
             borderBottom={{
-              base: "2px solid white",
+              base: "2px solid black",
               lg: "2px solid transparent",
             }}
             pb={{ base: "20px", lg: "4px" }}
@@ -92,7 +92,7 @@ export const Navbar = () => {
         <Link to="/sell" onClick={() => handleNavigate("/sell")}>
           <Text
             borderBottom={{
-              base: "2px solid white",
+              base: "2px solid black",
               lg: "2px solid transparent",
             }}
             pb={{ base: "20px", lg: "4px" }}

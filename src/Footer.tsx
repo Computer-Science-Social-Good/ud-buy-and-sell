@@ -22,7 +22,7 @@ export const Footer = () => {
       <Text pt="3">
         {config.name} • {year}
       </Text>
-      <Text>Developed by CS + Social Good</Text>
+      <Text>Developed by CS + Social Good @ UD</Text>
       <HStack fontSize="30px" spacing="5">
         <Link
           href="https://www.instagram.com/ud_cssg"

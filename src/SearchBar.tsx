@@ -89,7 +89,7 @@ export const SearchBar = (props: SearchBarProps) => {
           );
         })}
       </Select>
-      <HStack w="95%" maxW="550px" margin="0 auto" spacing="0">
+      <HStack w="95%" margin="0 auto" spacing="0">
         <Input
           value={searchQuery}
           size="lg"
