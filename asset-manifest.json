@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ud-buy-and-sell/static/js/main.2201ea78.js",
+    "main.js": "/ud-buy-and-sell/static/js/main.7fa42299.js",
     "static/js/496.eb791707.chunk.js": "/ud-buy-and-sell/static/js/496.eb791707.chunk.js",
     "index.html": "/ud-buy-and-sell/index.html",
-    "main.2201ea78.js.map": "/ud-buy-and-sell/static/js/main.2201ea78.js.map",
+    "main.7fa42299.js.map": "/ud-buy-and-sell/static/js/main.7fa42299.js.map",
     "496.eb791707.chunk.js.map": "/ud-buy-and-sell/static/js/496.eb791707.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2201ea78.js"
+    "static/js/main.7fa42299.js"
   ]
 }
