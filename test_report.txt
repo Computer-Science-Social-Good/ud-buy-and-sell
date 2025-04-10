@@ -1,5 +1,5 @@
 
-> my-app@0.1.0 test
+> ud-buy-and-sell@0.1.0 test
 > react-scripts test --coverage
 
   console.error
@@ -348,7 +348,7 @@
       at runCLI (node_modules/react-scripts/node_modules/@jest/core/build/cli/index.js:173:3)
 
 FAIL src/App.test.tsx
-  ✕ renders learn react link (551 ms)
+  ✕ renders learn react link (550 ms)
 
   ● renders learn react link
 
@@ -557,5 +557,5 @@ All files               |   49.75 |    25.96 |   33.33 |   50.73 |
 Test Suites: 1 failed, 1 total
 Tests:       1 failed, 1 total
 Snapshots:   0 total
-Time:        4.224 s
+Time:        3.893 s
 Ran all test suites.
